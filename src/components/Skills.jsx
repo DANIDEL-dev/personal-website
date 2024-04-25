@@ -7,7 +7,7 @@ const Skills = () => {
     <div className="middle-2">
       <hr className="rule f-rule" />
       <div id="work" className="skills">
-        <h2>My Skills.</h2>
+        <h2>My Skills</h2>
         <div className="skill-row">
           <img
             className="worker-row"
@@ -32,20 +32,19 @@ const Skills = () => {
               alt="Software enineering"
             />
           </div>
-          
         </div>
       </div>
       <hr className="rule" />
       <div id="contact-me">
         <h2>Get In Touch</h2>
         <p className="hire-me touch">
-          I'm currently available for freelancing work as well as
-          handling your projects.
+          I'm currently available for freelancing work as well as handling your
+          projects.
         </p>
         <p className="coach touch">
-          Do you have a project you want to get started? do you want to have fun as well
-          as learn how to code in a smart way or you want to get insight from
-          your data ?
+          Do you have a project you want to get started? do you want to have fun
+          as well as learn how to code in a smart way or you want to get insight
+          from your data ?
         </p>
         <p className="c-footer__text">
           <span className="u-d-block@md">
